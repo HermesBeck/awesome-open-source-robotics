@@ -331,6 +331,8 @@ Robotics blogs and newsletters worth following.
 
 - **[We All Are Robots](https://ziegler.substack.com)** by Lukas Ziegler
 
+- **[Robot Use Cases](https://robotusecases.com)** — open-source personal robot builds with sourced parts lists and what each one replaces
+
 **[Browse all blogs](https://robotics.growbotics.ai/community/blogs)**
 
 ---
